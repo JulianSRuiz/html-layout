@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	font-family: arial;
+	color: #4A4A4A;
+}
+
+nav {
+	height: 100px;
+	width: 100%;
+	background-color: #D8D8D8;
+	padding-top: 15px;
+}
+
+.small-box {
+	background-color: #4A90E2;
+	height: 90px;
+	width: 90px;
+	margin-left: 30px;
+	}
+
+.text-box {
+	font-size: 22px;
+	line-height: 120%;
+	padding: 80px;
+	height: 200px;
+}
+
+.blue-box {
+	height: 125px;
+	width: 100%;
+	background-color: #4A90E2;
+}
+
+.seafoam {
+	height: 125px;
+	width: 100%;
+	background-color: #50E3C2;
+}
+
+.green {
+	height: 125px;
+	width: 100%;
+	background-color: #B8E986;
+}
+
+.yellow {
+	height: 125px;
+	width: 100%;
+	background-color: #F8E71C;
+}

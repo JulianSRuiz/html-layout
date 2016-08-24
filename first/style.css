@@ -1,0 +1,25 @@
+nav {
+	height: 200px;
+	background-color: #444444;
+}
+
+
+.center-box {
+	width: 60%;
+	height: 900px;
+	margin: auto;
+	background-color: #EFEFEF;
+	padding: 10px;
+}
+
+body {
+	background-color: #D8D8D8;
+}
+
+.under-box {
+	background-color: black;
+	width: 60%;
+	height: 100px;
+	margin: auto;
+	padding: 10px;
+}

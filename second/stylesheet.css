@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+}
+
+.first-column {
+	width: 33%;
+	height: 900px;
+	float: left;
+	background-color: #4A90E2;
+}
+
+.second-column {
+	width: 34%;
+	height: 900px;
+	float: left;
+	background-color: #50E3C2;
+}
+
+.third-column {
+	width: 33%;
+	height: 600px;
+	float: left;
+	background-color: #B8E986;
+}
+
+.third-bottom-column {
+	width: 33%;
+	height: 200px;
+	float: left;
+	background-color: #D0021B;
+	font-size: 28px;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 100px;
+}
